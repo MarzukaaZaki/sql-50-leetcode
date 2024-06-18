@@ -5,4 +5,5 @@ This repository will contain the solutions to all 50 questions in the leetcode S
 # Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/MarzukaaZaki/sql-50-leetcode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/MarzukaaZaki/sql-50-leetcode/tree/master/1258-article-views-i) |
