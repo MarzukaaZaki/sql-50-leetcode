@@ -1,2 +1,8 @@
 # sql-50-leetcode
 This repository will contain the solutions to all 50 questions in the leetcode SQL 50 series.
+
+
+# Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/MarzukaaZaki/sql-50-leetcode/tree/master/1258-article-views-i) |
