@@ -15,3 +15,14 @@ This repository will contain the solutions to all 50 questions in the leetcode S
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MarzukaaZaki/sql-50-leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/MarzukaaZaki/sql-50-leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MarzukaaZaki/sql-50-leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/MarzukaaZaki/sql-50-leetcode/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/MarzukaaZaki/sql-50-leetcode/tree/master/1894-merge-strings-alternately) |
+<!---LeetCode Topics End-->
